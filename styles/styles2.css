@@ -1,0 +1,18 @@
+div {
+    width: 600px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 0 20px 20px 20px;
+   display: flex;
+   flex-direction: column;
+  }
+  html{
+    background-color:cornsilk;
+}
+img {
+    width: 400px;
+    height:500px;
+}
+ul {
+    font-size: 20px;
+}
